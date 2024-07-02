@@ -61,7 +61,7 @@ module.exports = {
     },
     {
       name: 'Discord',
-      link: 'https://discord.gg/cKQ2aDXMfa',
+      link: 'https://discord.gg/fDqWqR2u43',
     },
   ],
 
